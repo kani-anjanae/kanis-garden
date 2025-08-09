@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-garden-gates/","tags":["gardenEntry"],"created":"2025-08-08T01:59:24.725-07:00","updated":"2025-08-08T17:53:23.229-07:00"}
+{"dg-publish":true,"permalink":"/the-garden-gates/","tags":["gardenEntry"],"created":"2025-08-08T01:59:24.725-07:00","updated":"2025-08-08T18:01:33.718-07:00"}
 ---
 
 "id rather be stricken blind than to live without expression of the mind" - my glorious king Tupac Shakur
@@ -10,7 +10,7 @@ My mind already works like a wikipedia page anyways and I have this horrible fea
 
 I love lists and doing things and making things and thinking things. I love to learn. I want a lot out of life! I want to appreciate it as much as possible, maybe even in retrospect as some things pass me by
 
-Here's where my [[poetry\|poetry]] will live! My opinion pieces! [My interrogation piece[[(gio)kani's room\|(gio)kani's room]]s]() that I really just write to help myself develop new ideas! Books I want to read! Books ive read ad have thoughts about. Music i want to enjoy! [[books\|books]], Movies and TV shows as well! Places I'd like to go! Movements and people groups Ive been learning!
+Here's where my [[poetry\|poetry]] will live! My opinion pieces! [My interrogation piece[[(gio)kani's room\|(gio)kani's room]]]() that I really just write to help myself develop new ideas! Books I want to read! Books ive read ad have thoughts about. Music i want to enjoy! [[books\|books]], Movies and TV shows as well! Places I'd like to go! Movements and people groups Ive been learning!
 
 Information I learn about people and art and history and culture and revolution and love and the world! 
 
